@@ -1,0 +1,6 @@
+tmp
+artifacts
+node_modules
+dist
+yarn-error.log
+public/maps/*.json
